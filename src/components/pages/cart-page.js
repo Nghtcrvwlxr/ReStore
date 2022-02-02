@@ -3,7 +3,7 @@ import React from "react";
 const CartPage = () => {
     return (
         <h2 className='cart-page'>
-            Welcome to Cart page
+            Cart page
         </h2>
     );
 };

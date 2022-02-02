@@ -7,16 +7,15 @@
 
 .shop-header .logo {
     font-family: 'Playfair Display', Georgia, serif;
-    text-decoration: none;
     font-size: 2.5rem;
-    padding-left: 1rem;
+    padding-left: 5rem;
 }
 
 .shop-header .shopping-cart {
     align-self: center;
-    text-decoration: none;
     font-size: 1.3rem;
-    padding-right: 1rem;
+    padding-right: 5rem;
+    margin-top: 1rem;
 }
 
 .shop-header .shopping-cart .cart-icon {
